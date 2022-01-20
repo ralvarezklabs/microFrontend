@@ -1,0 +1,2 @@
+# microFrontend
+Example micro fronted
